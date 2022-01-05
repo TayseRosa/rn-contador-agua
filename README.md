@@ -11,7 +11,7 @@
 ---
 # 🛠 Sobre o Projeto RN - Contador de água
 
-<img src="./img/readme.jpg" width="100%" height="auto" />
+<img src="./img/readme.png" width="100%" height="auto" />
 
 
 # 🚀 Tecnologias utilizadas neste projeto
