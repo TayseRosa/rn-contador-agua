@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "contadorAgua",
+    "slug": "contadorAgua",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "contadorAgua"
+}
