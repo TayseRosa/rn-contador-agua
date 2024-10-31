@@ -1,17 +1,8 @@
 <h1 align="center">React Native - Projeto Contador de água </h1>
 
-# Índice
-- [Índice](#índice)
-- [🛠 Sobre o Projeto RN - Contador de água](#-sobre-o-projeto-rn---contador-de-água)
-- [🚀 Tecnologias utilizadas neste projeto](#-tecnologias-utilizadas-neste-projeto)
-- [📥 Como usar](#-como-usar)
-- [🚀 Developer](#-developer)
-- [📞 Contate a Dev](#-contate-a-dev)
-  
----
 # 🛠 Sobre o Projeto RN - Contador de água
 
-<img src="./img/readme.jpeg" width="100%" height="auto" />
+<img src="./img/readme.jpeg" width="30%" height="auto" />
 
 
 # 🚀 Tecnologias utilizadas neste projeto
